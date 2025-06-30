@@ -23,9 +23,10 @@
     },
     "default_title": "__MSG_actionbutton_title__"
   },
-  "permissions": [
+  "host_permissions": [
     "<all_urls>"
   ],
+
   "default_locale": "en",
   "applications": {
     "gecko": {
