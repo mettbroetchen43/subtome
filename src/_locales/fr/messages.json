@@ -1,0 +1,14 @@
+{
+  "extension_description": {
+    "message": "Utilisez SubToMe pour suivre rapidement et facilement des sites Web et ne jamais manquer une publication."
+  },
+  "extension_name": {
+    "message": "SubToMe - Bouton d'abonnement universel"
+  },
+  "actionbutton_title": {
+    "message": "Abonnez-vous à cette page"
+  },
+  "page_has_no_feed": {
+    "message": "Cette page n'a pas de flux."
+  }
+}
