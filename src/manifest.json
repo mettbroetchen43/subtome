@@ -12,9 +12,9 @@
     "url": "https://www.soeren-hentzschel.at/firefox-webextensions/?utm_campaign=webext&utm_term=subtome"
   },
   "background": {
-    "scripts": ["js/background.js"]
+    "service_worker": "js/background.js"
   },
-  "browser_action": {
+  "action": {
     "browser_style": false,
     "default_icon": {
       "16": "images/icon-16.png",
